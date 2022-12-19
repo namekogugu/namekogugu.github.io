@@ -68,9 +68,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  技術: skill
+  
 tag_map:
-  標籤: tag
+
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
