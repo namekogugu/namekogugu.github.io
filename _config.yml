@@ -104,6 +104,6 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:namekogugu/namekogugu.github.io.git
+  repo: https://github.com/namekogugu/namekogugu.github.io.git
   branch: master # 儲存庫分支
   message: "Hexo Env" # Commit 訊息
