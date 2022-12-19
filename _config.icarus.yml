@@ -117,10 +117,10 @@ widgets:
     -
         position: left
         type: profile
-        author: Your name
-        author_title: Your title
-        location: Your location
-        avatar: 
+        author: Kai,Jie Jhan
+        author_title: junior software engineer
+        location: Taiwan
+        avatar: http://spiralcute.com/characters/img/nameko/main.png
         avatar_rounded: false
         gravatar: 
         follow_link: https://github.com/ppoffice
