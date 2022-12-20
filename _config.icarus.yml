@@ -123,11 +123,11 @@ widgets:
         avatar: http://spiralcute.com/characters/img/nameko/main.png
         avatar_rounded: false
         gravatar: 
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/namekogugu
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/namekogugu
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
