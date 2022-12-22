@@ -84,30 +84,16 @@ search:
     index_pages: true
 comment:
     type: disqus
-    shortname: ''
+    shortname: 'namekogugu'
 donates:
     -
-        type: afdian
-        url: ''
-    -
-        type: alipay
-        qrcode: ''
-    -
         type: buymeacoffee
-        url: ''
-    -
-        type: patreon
-        url: ''
-    -
-        type: paypal
-        business: ''
-        currency_code: USD
-    -
-        type: wechat
-        qrcode: ''
+        url: 'https://www.buymeacoffee.com/namekoguguZ'
+
+    
 share:
     type: sharethis
-    install_url: ''
+    install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=63a306b04c31970015656368&product=inline-share-buttons&source=platform'
 sidebar:
     left:
         sticky: false
@@ -131,15 +117,7 @@ widgets:
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
+            
     -
         position: left
         type: toc
@@ -167,22 +145,7 @@ widgets:
         order_by: name
         amount: 
         show_count: true
-    -
-        position: left
-        type: subscribe_email
-        description: 
-        feedburner_id: ''
-    -
-        position: left
-        type: adsense
-        client_id: ''
-        slot_id: ''
-    -
-        position: left
-        type: followit
-        description: 
-        action_url: ''
-        verification_code: ''
+
 plugins:
     animejs: true
     back_to_top: true
